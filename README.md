@@ -114,3 +114,16 @@ There are three technical parts to a design system that we’ll talk about in th
 * 📕 Docs for automatic documentation generation from stories
 
 Reference to Storybook's Design system: https://github.com/storybookjs/design-system
+
+## Steps
+
+# Create an inventory
+Manually cataloging screens in various web sites or apps to discern common UI patterns.
+Useful heuristics:
+* If a UI pattern is used more than three times, turn it into a reusable UI component.
+& If a UI component is used in 3 or more projects/teams, put it in your design system.
+
+In design system nomenclature global style variables are called “design tokens”.
+
+## Code formatting and linting for hygiene
+Design systems are collaborative, so tools that fix syntax and standardize formatting serve to improve contribution quality
