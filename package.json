@@ -21,7 +21,6 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -o docs-build -s ./stories/assets"
-
   },
   "eslintConfig": {
     "extends": [
@@ -59,6 +58,7 @@
     "@storybook/node-logger": "^6.3.10",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.3.10",
+    "chromatic": "^5.10.2",
     "prettier": "^2.4.1"
   }
 }
