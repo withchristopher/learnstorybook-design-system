@@ -1,5 +1,5 @@
 {
-  "name": "@hadeda/learnstorybook-design-system",
+  "name": "@withchristopher/learnstorybook-design-system",
   "version": "0.1.0",
   "private": false,
   "homepage": "https://withchristopher.github.io/learnstorybook-design-system/",
@@ -77,6 +77,6 @@
   "description": "Storybook design systems tutorial",
   "main": "index.js",
   "repository": "https://github.com/withchristopher/learnstorybook-design-system.git",
-  "author": "Chris Maxwell <chris@hadeda.ai>",
+  "author": "chmaxwel@icloud.com",
   "license": "MIT"
 }
