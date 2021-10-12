@@ -1,3 +1,16 @@
+# v0.1.2 (Tue Oct 12 2021)
+
+#### ⚠️ Pushed to `develop`
+
+- Merge branch 'develop' of https://github.com/withchristopher/learnstorybook-design-system into develop ([@withchristopher](https://github.com/withchristopher))
+- Update package.json ([@withchristopher](https://github.com/withchristopher))
+
+#### Authors: 1
+
+- Chris Maxwell ([@withchristopher](https://github.com/withchristopher))
+
+---
+
 # v0.1.1 (Tue Oct 12 2021)
 
 #### ⚠️ Pushed to `develop`
