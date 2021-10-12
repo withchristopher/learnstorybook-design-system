@@ -23,7 +23,7 @@ jobs:
           #👇 Chromatic projectToken, see https://storybook.js.org/tutorials/design-systems-for-developers/react/en/review/ to obtain it
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           token: ${{ secrets.CHRIS_TOKEN }}
-          
+
   chromatic-deployment:
     # Operating System
     runs-on: ubuntu-latest
