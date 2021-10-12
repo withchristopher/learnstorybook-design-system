@@ -1,7 +1,7 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@hadeda/learnstorybook-design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://withchristopher.github.io/learnstorybook-design-system/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "cross-env BABEL_ENV=production babel src -d dist",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
@@ -39,7 +39,16 @@
       }
     ]
   },
-  "babel": {},
+  "babel": {
+    "presets": [
+      [
+        "react-app",
+        {
+          "absoluteRuntime": false
+        }
+      ]
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -61,7 +70,13 @@
     "@storybook/node-logger": "^6.3.10",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.3.10",
+    "auto": "^10.32.1",
     "chromatic": "^5.10.2",
     "prettier": "^2.4.1"
-  }
+  },
+  "description": "Storybook design systems tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/withchristopher/learnstorybook-design-system.git",
+  "author": "Chris Maxwell <chmaxwel@icloud.com>",
+  "license": "MIT"
 }
