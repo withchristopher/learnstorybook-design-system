@@ -1,3 +1,15 @@
+# v0.1.3 (Wed Oct 13 2021)
+
+#### 🐛 Bug Fix
+
+- Feature/components [#1](https://github.com/withchristopher/learnstorybook-design-system/pull/1) ([@withchristopher](https://github.com/withchristopher))
+
+#### Authors: 1
+
+- Chris Maxwell ([@withchristopher](https://github.com/withchristopher))
+
+---
+
 # v0.1.2 (Tue Oct 12 2021)
 
 #### ⚠️ Pushed to `develop`
