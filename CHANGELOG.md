@@ -1,3 +1,19 @@
+# v0.1.5 (Wed Oct 13 2021)
+
+#### 🐛 Bug Fix
+
+- Create avatar list component [#2](https://github.com/withchristopher/learnstorybook-design-system/pull/2) ([@withchristopher](https://github.com/withchristopher))
+
+#### ⚠️ Pushed to `develop`
+
+- Deploying to develop from @ 34b2d8f4a645b49d305346850233613e05f47a94 🚀 ([@withchristopher](https://github.com/withchristopher))
+
+#### Authors: 1
+
+- Chris Maxwell ([@withchristopher](https://github.com/withchristopher))
+
+---
+
 # v0.1.4 (Wed Oct 13 2021)
 
 #### ⚠️ Pushed to `develop`
