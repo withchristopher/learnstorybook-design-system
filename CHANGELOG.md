@@ -1,3 +1,15 @@
+# v0.1.4 (Wed Oct 13 2021)
+
+#### ⚠️ Pushed to `develop`
+
+- Deploying to develop from @ ade39d7032b157969314eca49b374c947ddf0bed 🚀 ([@withchristopher](https://github.com/withchristopher))
+
+#### Authors: 1
+
+- Chris Maxwell ([@withchristopher](https://github.com/withchristopher))
+
+---
+
 # v0.1.3 (Wed Oct 13 2021)
 
 #### 🐛 Bug Fix
