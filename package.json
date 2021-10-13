@@ -21,7 +21,7 @@
     "eject": "react-scripts eject",
     "release": "auto shipit --base-branch=develop",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -o docs-build -s ./src/stories/assets",
+    "build-storybook": "build-storybook -o docs-build",
     "chromatic": "npx chromatic --project-token=CHROMATIC_PROJECT_TOKEN"
   },
   "eslintConfig": {
